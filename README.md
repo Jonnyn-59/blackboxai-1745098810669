@@ -1,6 +1,3 @@
----
-
-```markdown
 # Work Shift Calendar
 
 ## Project Overview
