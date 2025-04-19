@@ -61,7 +61,3 @@ work-shift-calendar/
 ├── package-lock.json       # Locked versions of dependencies
 └── README.md               # This README file
 ```
-
-## Conclusion
-The **Work Shift Calendar** is a project aimed at enhancing shift management for users. Its modular structure and convenience in usage make it a suitable tool for any workforce. For more details or contribution inquiries, feel free to contact the project maintainers or raise an issue in the GitHub repository.
-```
